@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+מופיעים בספק הוא פודקאסט פנטזי פריימר ליג שנראה קצת אחרת — עם טיפים חדים, דאטה מעמיק ואישיות ייחודית שתגרום לכם לנצח. הצטרפו עכשיו!
+
+### תוכן
+https://example.com/content
+פרקי פודקאסט, סרטוני יוטיוב וניתוחים מעמיקים — כל התוכן של מופיעים בספק בדף אחד. טיפים, דאטה ותובנות שיקפיצו אתכם בטבלה עוד השבוע.
+
+### אודות
+https://example.com/about
+למה מופיעים בספק נראה קצת אחרת? הכירו את הצוות, הפילוסופיה והגישה הייחודית שהפכה את הפודקאסט הזה לשונה מכל תוכן פנטזי פריימר ליג שפגשתם.
+
+### צור קשר
+https://example.com/contact
+רוצים לשתף פעולה, לשלוח טיפ חם או סתם להגיד שלום? צרו קשר עם מופיעים בספק ותקבלו מענה מהצוות שחי ונושם פנטזי פריימר ליג בכל רגע נתון.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
